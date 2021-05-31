@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gustavo Site</title>
-    <link>https://gusmmm.github.io/gustavo-site/categories/</link>
+    <link>/gusmmm.github.io/gustavo-site/categories/</link>
     <description>Recent content in Categories on Gustavo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate><atom:link href="https://gusmmm.github.io/gustavo-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate><atom:link href="/gusmmm.github.io/gustavo-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>notes</title>
-      <link>https://gusmmm.github.io/gustavo-site/categories/notes/</link>
+      <link>/gusmmm.github.io/gustavo-site/categories/notes/</link>
       <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://gusmmm.github.io/gustavo-site/categories/notes/</guid>
+      <guid>/gusmmm.github.io/gustavo-site/categories/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>https://gusmmm.github.io/gustavo-site/categories/life/</link>
+      <link>/gusmmm.github.io/gustavo-site/categories/life/</link>
       <pubDate>Sat, 22 Oct 2016 16:56:54 +0000</pubDate>
       
-      <guid>https://gusmmm.github.io/gustavo-site/categories/life/</guid>
+      <guid>/gusmmm.github.io/gustavo-site/categories/life/</guid>
       <description></description>
     </item>
     
