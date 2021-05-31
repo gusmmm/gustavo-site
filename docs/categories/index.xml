@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gustavo Site</title>
-    <link>/gusmmm.github.io/gustavo-site/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Gustavo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate><atom:link href="/gusmmm.github.io/gustavo-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>notes</title>
-      <link>/gusmmm.github.io/gustavo-site/categories/notes/</link>
+      <link>/categories/notes/</link>
       <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
       
-      <guid>/gusmmm.github.io/gustavo-site/categories/notes/</guid>
+      <guid>/categories/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>/gusmmm.github.io/gustavo-site/categories/life/</link>
+      <link>/categories/life/</link>
       <pubDate>Sat, 22 Oct 2016 16:56:54 +0000</pubDate>
       
-      <guid>/gusmmm.github.io/gustavo-site/categories/life/</guid>
+      <guid>/categories/life/</guid>
       <description></description>
     </item>
     
